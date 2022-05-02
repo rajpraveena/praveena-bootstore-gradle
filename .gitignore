@@ -1,0 +1,14 @@
+HELP.md
+.gradle
+build/
+bin/
+gradle/
+.classpath
+.project
+.settings
+gradlew
+gradlew.bat
+.metadata/
+
+
+
